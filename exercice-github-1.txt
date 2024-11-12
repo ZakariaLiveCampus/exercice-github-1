@@ -1,0 +1,9 @@
+Partie pratique :
+Créer un compte sur GitHub si vous n'en avez pas encore
+Créer un nouveau dépôt (par exemple "exercice-github-1")
+Créer un dossier sur votre ordinateur et reliez-le à votre dépôt sur GitHub
+Réalisez différentes modifications de fichier sur votre ordinateur avec à chaque fois add/commit, et parfois push
+Vérifiez la bonne mise à jour du serveur sur le site de GitHub
+A la fin, créez un nouveau dossier et utilisez git pull pour récupérer l'état actuel de votre projet dans un nouveau dossier
+
+Note : votre fichier peut être un simple fichier texte, des images, ou du code, faites comme vous le sentez
